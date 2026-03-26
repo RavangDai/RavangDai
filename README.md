@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Bibek Pathak (RavangDai)
 
-<!--
-**RavangDai/RavangDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Building the future with AI & Code
+I specialize in **TypeScript**, **Python**, and **AI-driven applications**. 
 
-Here are some ideas to get you started:
+- 🤖 **Current Focus:** Explainable AI & Autonomous Logic
+- 🌍 **Portfolio:** [bibekpathak.vercel.app](https://bibekpathak.vercel.app/)
+- 🛠 **Top Tools:** React, Next.js, FastAPI, Vector Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 My GitHub Journey
+![Your Stats](https://github-readme-stats.vercel.app/api?username=RavangDai&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavangDai&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
